@@ -1,0 +1,14 @@
+uuid: cb6249b4-f942-4d26-8088-a560bc630739
+name: my-buildtools-site
+mail: nadim.dipu@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
